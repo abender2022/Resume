@@ -1,3 +1,3 @@
 # Resume
 
-[My Resume](Resume.pdf)
+[My Resume](resume.pdf)
