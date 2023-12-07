@@ -1,4 +1,4 @@
 # Resume
 
 
-<img src="resume.pdf" >
+<img src="resume.pdf">
