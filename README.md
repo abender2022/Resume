@@ -1,4 +1,3 @@
 # Resume
 
-
-<img src="resume.pdf" width="500">
+[My Resume](Resume.pdf)
