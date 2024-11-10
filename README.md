@@ -1,3 +1,3 @@
 # Resume
 
-Ava_Resume.pdf
+img ="Ava_Resume.pdf"
