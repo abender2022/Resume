@@ -1,3 +1,3 @@
 # Resume
 
-<img src="Ava_Resume.pdf" width="500">
+<img src="Ava_Resume.png" width="500">
