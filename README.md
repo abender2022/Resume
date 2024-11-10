@@ -1,3 +1,3 @@
 # Resume
 
-img ="Ava_Resume.pdf"
+<img src="Ava_Resume.pdf" width="500">
