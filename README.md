@@ -1,3 +1,3 @@
 # Resume
 
-<img src="Ava_Resume.png" width="500">
+[My Resume](Ava_Resume.pdf)
